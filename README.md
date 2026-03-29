@@ -30,25 +30,4 @@ In a Cybersecurity context, sudden downtime is often the first sign of a DDoS at
 
 ---
 
-### 🚀 Step 3: Upload it to GitHub
-Now that the file is saved on your computer, you need to "Push" it so it shows up on your GitHub profile.
 
-1.  Click the **Source Control** icon on the left (the one with the blue notification number).
-2.  In the **Message** box, type: `docs: added professional readme`
-3.  Click the **Commit** (Checkmark) button.
-4.  Click the blue **Sync Changes** or **Push** button.
-
----
-
-### 🕵️‍♂️ The "Magic" Result
-Go to your GitHub page in your browser and refresh. You will see that GitHub has automatically taken the text from that `README.md` and displayed it beautifully at the bottom of your project.
-
-
-
-### 💡 Pro Tip for your Interview:
-If the interviewer looks at your GitHub, they will see a professional **README**. This tells them:
-* You know how to **document** your work (which is a huge part of a tech job).
-* You understand **Markdown**, the industry standard for documentation.
-* You care about the **User Experience** of other developers.
-
-**Once you finish this, would you like me to show you how to move your Port Scanner into its own separate folder so your GitHub profile looks like a collection of different professional tools?**
